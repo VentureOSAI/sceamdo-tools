@@ -4,3 +4,10 @@
 /launch-audit        https://sceamdo-launch-readiness-audit.netlify.app       200!
 /pitch-surgeon       https://sceamdo-pitch-deck-surgeon.netlify.app           200!
 /idea-validator      https://sceamdo-idea-validator.netlify.app               200!
+/validation-gap      https://sceamdo-validation-gap-finder.netlify.app            200!
+/investor-narrative  https://sceamdo-investor-narrative-scorer.netlify.app        200!
+/revenue-day-one     https://sceamdo-revenue-day-one-planner.netlify.app          200!
+/automation-roi      https://sceamdo-automation-roi-calculator.netlify.app        200!
+/capital-readiness   https://sceamdo-capital-readiness-checker.netlify.app        200!
+/ai-product-mapper   https://sceamdo-ai-product-opportunity-mapper.netlify.app    200!
+/growth-bottleneck   https://sceamdo-growth-bottleneck-diagnostician.netlify.app  200!
