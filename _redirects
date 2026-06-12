@@ -11,3 +11,11 @@
 /capital-readiness   https://sceamdo-capital-readiness-checker.netlify.app        200!
 /ai-product-mapper   https://sceamdo-ai-product-opportunity-mapper.netlify.app    200!
 /growth-bottleneck   https://sceamdo-growth-bottleneck-diag.netlify.app   200!
+/build-or-kill          https://sceamdo-build-or-kill-decision-engine.netlify.app   200!
+/first-customer         https://sceamdo-first-customer-closer.netlify.app           200!
+/raise-closer           https://sceamdo-60-day-raise-closer.netlify.app             200!
+/growth-restart         https://sceamdo-90-day-growth-restart-engine.netlify.app    200!
+/breakdown-terminator   https://sceamdo-30-day-breakdown-terminator.netlify.app     200!
+/ai-performance-fix     https://sceamdo-30-day-ai-performance-fix.netlify.app       200!
+/dfi-close-engine       https://sceamdo-6-month-dfi-close-engine.netlify.app        200!
+/budget-delivery        https://sceamdo-budget-delivery-guarantee.netlify.app       200!
